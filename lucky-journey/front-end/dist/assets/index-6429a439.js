@@ -1,0 +1,1 @@
+import{a,b as n,c as t,w as o,f as s,_}from"./index-0c93d47c.js";const l={__name:"index",setup(c){return(r,p)=>{const e=a("VContainer");return n(),t(e,null,{default:o(()=>[s(_)]),_:1})}}};export{l as default};
